@@ -1,0 +1,40 @@
+Project Name: To Do List https://todolist.james.am/#/
+Test Phase: Functional test. Non-functional test.
+Report Date: 2025-01-28
+Prepared By: MRS Kristina Masiulyte-Tomkiene
+Test Environment: Edge, Google Chrome.
+
+Number of test cases executed: 10   // How to count test executed?
+Critical: 0
+Major: 2
+Minor: 2
+
+
+
+Summary
+
+Functional: test
+The testing conducted insert feature/module meets requirement to enter the data.
+Button's "All", "active", "Completed" and "Clear" function meets the requirement.
+Count of "items left" doesn't meet requirements (defected).
+Double-click meets the requirement. Function works to edit "To Do List" item.
+Console reports: 
+Failed to load resource: the server responded with a status of 404 (3 times)
+// reference to learn.json:1, api:1 and favicon.icon#/:1
+
+
+
+Non-functional:
+Text box looks like more boxes are open due to poor design.
+Active button missing capital letter. 
+
+// :) HTML
+	<!-- THIS IS A STUPID APP AND I HAVE NO IDEA WHY WE'RE WASTING OUR TIME DOING THIS DEV WORK -->
+
+
+Recommendation
+
+1. Improve design.
+2. Correct JS code to count "items left" increase result by 1
+3. Correct spelling "active" to changing first letter to capital letter.
+
