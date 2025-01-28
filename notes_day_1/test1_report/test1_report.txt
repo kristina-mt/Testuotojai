@@ -36,5 +36,5 @@ Recommendation
 
 1. Improve design.
 2. Correct JS code to count "items left" increase result by 1
-3. Correct spelling "active" to changing first letter to capital letter.
+3. Correct spelling "active" to change first letter to capital letter.
 
